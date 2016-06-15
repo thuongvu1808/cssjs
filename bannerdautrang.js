@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			// $("#myModal").html("<a href='http://siquanaotreemquangovap.blogspot.com/' target='_blank'><img src='http://laysiquanao.com/kcfinder/upload/images/cung-cap-si-quan-ao-tre-em-1.jpeg' width='500px'/>quần áo trẻ em xuất khẩu quận Gò Vấp</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			// $("#myModal").html("<a href='http://siquanaotreemquangovap.blogspot.com/' target='_blank'><img src='https://2.bp.blogspot.com/-Byf3NfzHWGk/V2FbIc2im1I/AAAAAAAAACs/Wc070vRcdI81qEbAHCwP1V1PETRFPRj4ACLcB/s1600/cung-cap-si-quan-ao-tre-em-1.jpeg' width='500px'/>quần áo trẻ em xuất khẩu quận Gò Vấp</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
